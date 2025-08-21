@@ -71,7 +71,7 @@ me = CyberSecStudent()
 
 ---
 
-## Key Projects  
+ 
 
 ###  Ransomware Simulator (Highlight Project)  
 *Educational ransomware simulation project to study Tactics, Techniques, and Procedures (TTPs) of modern ransomware*  

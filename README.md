@@ -127,9 +127,19 @@ Demonstrates how a real-world web app can integrate security at every level of d
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaizalRahman01&label=Profile+Views&color=00FF00&style=flat" />
-  <img src="https://img.shields.io/github/followers/FaizalRahman01?label=Followers&style=social" alt="GitHub followers" />
+  <!-- Clickable Profile Views (link to your profile or traffic page) -->
+  <a href="https://github.com/FaizalRahman01" title="Visit my GitHub profile">
+    <img src="https://komarev.com/ghpvc/?username=FaizalRahman01&label=Profile+Views&color=00FF00&style=flat" alt="Profile views badge" />
+  </a>
+  <!-- Or (owner-only) traffic insights: https://github.com/FaizalRahman01/FaizalRahman01/graphs/traffic -->
+
+  <!-- Clickable Followers -->
+  <a href="https://github.com/FaizalRahman01?tab=followers" title="See my followers">
+    <img src="https://img.shields.io/github/followers/FaizalRahman01?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
 <p align="center">

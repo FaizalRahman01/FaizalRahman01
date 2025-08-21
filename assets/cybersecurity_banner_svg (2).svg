@@ -344,7 +344,7 @@
     </line>
   </g>
   
-  <!-- Floating Code Particles -->
+  
   <g opacity="0.4" font-family="Share Tech Mono, monospace" font-size="8" fill="#00ff00">
     <text x="200" y="300">0x41414141
       <animateTransform attributeName="transform" type="translate" values="0,0; 50,-30; 100,0" dur="8s" repeatCount="indefinite"/>

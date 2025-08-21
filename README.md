@@ -116,7 +116,8 @@ Demonstrates how a real-world web app can integrate security at every level of d
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FaizalRahman01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" height="165" /> <img src="https://streak-stats.demolab.com?user=FaizalRahman01&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizalRahman01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" height="165" /> </p>
  Connect & Collaborate
 <p align="center"> <a href="https://linkedin.com/in/faizal-rahman-68275a260"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:faizalrahman7834@gmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://github.com/FaizalRahman01"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
- ##  Current Learning Path  
+ 
+ ## Current Learning Path  
 
 - ✅ **Python Security Automation** – building automated scripts for security workflows  
 - ✅ **Web Application Security Fundamentals** – learning common vulnerabilities & defenses  

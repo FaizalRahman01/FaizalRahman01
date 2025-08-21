@@ -24,6 +24,8 @@ class CyberSecStudent:
         return "Professional Pentester  | Security Researcher "
 
 me = CyberSecStudent()
+# Explore more in my projects below 👇
+
 ```
 
 ---

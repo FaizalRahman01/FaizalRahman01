@@ -1,6 +1,18 @@
-👋 Hi, I'm Faizal Rahman
- CyberSec Enthusiast | Python Dev | Pentesting Apprentice
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Zero+Trust+Advocate;Offensive+Security+Learner;Python+Automation+Enjoyer;Building+Security+Tools;Red+Team+Mindset" alt="Typing SVG" /> </a> </p>
+<h1 align="center">👋 Hi, I'm Faizal Rahman</h1>
+<h3 align="center">CyberSec Enthusiast | Python Dev | Pentesting Apprentice</h3>
+
+<p align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Zero+Trust+Advocate;Offensive+Security+Learner;Python+Automation+Enjoyer;Building+Security+Tools;Red+Team+Mindset" alt="Typing SVG" />
+  </a> 
+</p>
+
+<p align="center">
+  <a href="assets/banner.mp4">
+    <img src="assets/banner.gif" alt="Faizal Rahman Cybersecurity Banner" width="100%" />
+  </a>
+</p>
+
 
 ## About Me  
 

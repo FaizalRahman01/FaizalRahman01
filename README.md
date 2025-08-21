@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/FaizalRahman01/FaizalRahman01/main/assets/banner.mp4">
-    <img src="https://raw.githubusercontent.com/FaizalRahman01/FaizalRahman01/main/assets/banner.gif" alt="Faizal Rahman Cybersecurity Banner" width="100%" />
-  </a>
+  <img src="FaizalRahman01/assets/cybersecurity_banner_svg%20(2).svg" 
+       alt="Faizal Rahman Cybersecurity Banner" width="100%" />
 </p>
 
 

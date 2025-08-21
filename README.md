@@ -75,19 +75,21 @@ me = CyberSecStudent()
 
  
 
-###  Ransomware Simulator (Highlight Project)  
-*Educational ransomware simulation project to study Tactics, Techniques, and Procedures (TTPs) of modern ransomware*  
+###  Chotu Assistant
+Personal AI-powered assistant designed to automate daily tasks and improve productivity
 
 ```bash
-# Ethical usage only - for defensive research
-- AES encryption implementation 
-- Full attack chain simulation 
-- Safe & controlled learning environment
-```
-Impact:  
-Gives cybersecurity students & researchers a practical, ethical way to understand how ransomware works and how to defend against it.  
-### SentinelTrap – Password Strength Analyzer
+# Smart Features
+- Task reminders & scheduling  
+- Quick notes & search  
+- Voice/text interaction support  
+- Lightweight & customizable  
 
+```
+Impact:
+Helps users save time by automating repetitive tasks, organizing schedules, and providing instant assistance in a simple, user-friendly way.
+
+ ### SentinelTrap – Password Strength Analyzer
 A security-focused tool that simulates brute-force attempts to test password resilience
  ```bash
 # Features:

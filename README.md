@@ -2,26 +2,26 @@
 🔐 CyberSec Enthusiast | Python Dev | Pentesting Apprentice
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Zero+Trust+Advocate;Offensive+Security+Learner;Python+Automation+Enjoyer;Building+Security+Tools;Red+Team+Mindset" alt="Typing SVG" /> </a> </p>
 🧠 About Me
-python
 class CyberSecStudent:
     def __init__(self):
         self.name = "Faizal Rahman"
         self.focus = "Penetration Testing & Security Engineering"
-        self.languages = ["Python", "Bash", "SQL", "JavaScript"]
+        self.languages = ["Python 🐍", "Bash 💻", "SQL 📊", "JavaScript 🌐"]
         self.interests = [
-            "Web App Security",
-            "Ransomware Analysis", 
-            "Network Pentesting",
-            "Security Automation"
+            "Web App Security 🔐",
+            "Ransomware Analysis 💣", 
+            "Network Pentesting 🌍",
+            "Security Automation ⚡"
         ]
     
     def current_mission(self):
-        return "Building ethical security tools & mastering offensive security"
+        return "Building ethical security tools & mastering offensive security 🚀"
     
     def end_goal(self):
-        return "Professional Pentester | Security Researcher"
+        return "Professional Pentester 🛡️ | Security Researcher 🔬"
 
 me = CyberSecStudent()
+
 🛡️ Security Stack
 🔧 Offensive Tools:
 

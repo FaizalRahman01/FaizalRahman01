@@ -125,7 +125,21 @@ Demonstrates how a real-world web app can integrate security at every level of d
 - ⏳ **Malware Analysis & Reverse Engineering** – (upcoming) dissecting and understanding malware behavior  
 - 🎯 **OSCP Preparation** – focused roadmap towards Offensive Security Certified Professional  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FaizalRahman01&label=Profile+Views&color=00FF00&style=flat" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/FaizalRahman01?label=Follow&style=social"> </p>
-"Security is not a product, but a process." - Bruce Schneier
+---
 
-Building defensive systems through offensive understanding 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FaizalRahman01&label=Profile+Views&color=00FF00&style=flat" />
+  <img src="https://img.shields.io/github/followers/FaizalRahman01?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <em>"Security is not a product, but a process."</em><br>
+  — <strong>Bruce Schneier</strong>
+</p>
+
+<p align="center">
+  🔒 <strong>Building defensive systems</strong> through <strong>offensive understanding</strong>
+</p>
+
+---
+

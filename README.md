@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hey, I'm Faizal Rahman</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" alt="wave">
+  Hey, I'm Faizal Rahman
+</h1>
+
 <p align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=CyberSec+Enthusiast;Zero+Trust+Advocate;Pentesting+Apprentice;Python+Developer;Offensive+Security+Learner;Python+Automation+Enjoyer;Building+Security+Tools;Red+Team+Mindset;Automation+Tester" alt="Typing SVG" />

@@ -20,7 +20,7 @@ class CyberSecStudent:
     def __init__(self):
         self.name = "Faizal Rahman"
         self.focus = "Penetration Testing & Security Engineering"
-        self.languages = ["Python 🐍", "Bash ", "Java ", "C"]
+        self.languages = ["Python ", "Bash ", "Java ", "C"]
         self.interests = [
             "Web App Security ",
             "Ransomware Analysis ", 
